@@ -30,8 +30,8 @@
 
 ---
 
-[![Stars](https://img.shields.io/github/stars/Yasser-Mogahed/maven-market?color=52b788&style=flat-square)](https://github.com/Yasser-Mogahed/maven-market)
-[![Last Commit](https://img.shields.io/github/last-commit/Yasser-Mogahed/maven-market?color=2d6a4f&style=flat-square)](https://github.com/Yasser-Mogahed/maven-market)
+[![Stars](https://img.shields.io/badge/stars-⭐_give_a_star-52b788?style=flat-square)](https://github.com/Yasser-Mogahed/maven-market)
+[![Power BI](https://img.shields.io/badge/tool-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/Yasser-Mogahed/maven-market)
 [![License](https://img.shields.io/badge/license-MIT-1b4332?style=flat-square)](LICENSE)
 
 </div>
