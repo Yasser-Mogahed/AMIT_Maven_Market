@@ -209,19 +209,19 @@ Transactions Count = COUNTROWS(Transactions_1997-1998)
 <div align="center">
 
 ### 🏠 Executive Overview
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](Assets/Executive_Overview.png)
 
 ### 🛍️ Products Page
-![Products](Products.png)
+![Products](Assets/Products.png)
 
 ### 👥 Customers Page
-![Customers](Customers.png)
+![Customers](Assets/Customers.png)
 
 ### 🔄 Returns Page
-![Returns](Returns.png)
+![Returns](Assets/Returns.png)
 
 ### 🗺️ Data Model Schema
-![Schema](Schema.png)
+![Schema](Assets/Schema.png)
 
 </div>
 
